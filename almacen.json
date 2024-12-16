@@ -1,0 +1,59 @@
+{
+  "publicaciones": [
+    {
+      "id": "cbd9",
+      "nombrePublicacion": "IIIIIIIIII",
+      "codigo": "TUKI4573445",
+      "fecha": "2024-12-15T13:21:00",
+      "hora": "2024-12-13T13:45:00",
+      "monto": 344900,
+      "descripcion": "123",
+      "fechaCreacion": "13/12/2024, 1:21:33 p.m."
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "0bcc",
+      "username": "jabyera",
+      "email": "javi.vidalg@duocuc.cl",
+      "rut": "19.379.119-0",
+      "password": "duoc4321",
+      "isactive": true,
+      "resetToken": "",
+      "resetTokenExpiration": ""
+    },
+    {
+      "id": "ecba",
+      "username": "wenaswenass",
+      "email": "javi@gmail.com",
+      "rut": "13.143.354-3",
+      "password": "duoc1234",
+      "isactive": true
+    },
+    {
+      "id": "9d1d",
+      "username": "javiera",
+      "email": "javieravidal1996@gmail.com",
+      "rut": "19.379.119-1",
+      "password": "duoc1234",
+      "isactive": true,
+      "resetToken": "f43692ea-cc36-4cd7-a766-5ce28662cda3",
+      "resetTokenExpiration": "2024-12-15T23:04:40.148Z"
+    }
+  ],
+  "pagos": [],
+  "postulaciones": [
+    {
+      "id": "85cd",
+      "codigo": "TUKI4573445",
+      "usuario": "jabyera",
+      "nombrePublicacion": "IIIIIIIIII",
+      "fecha": "2024-12-15T13:21:00",
+      "hora": "2024-12-13T13:45:00",
+      "monto": 344900,
+      "descripcion": "123",
+      "postulante": "19.379.119-0",
+      "correo": null
+    }
+  ]
+}
